@@ -1,0 +1,35 @@
+h1
+{
+    text-align: center;
+}
+p
+{
+
+    text-align: center;
+
+}
+#red_{
+    color:red;
+    font-weight:bold;
+}
+#red{
+    color: blue;
+    font-weight: bold ;
+
+}
+
+#versub{
+    color: green;
+    text-decoration: underline ;
+}
+#blue{
+    color: red;
+    text-decoration: underline;
+    font-weight:bold ;
+}
+#font{
+    font-weight:bold;
+    font-size: 25px;
+}
+#dobleraya{
+    text-decoration:underline overline;}

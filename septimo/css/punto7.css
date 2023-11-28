@@ -1,0 +1,24 @@
+h1
+{
+    text-align: center;
+}
+#encabezado{
+    background-color: plum;
+    width: 420px;
+    height: 35px; 
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom : 2px;
+    padding-left: 20px;
+}
+
+a { 
+    color: white;
+    text-decoration:none;
+    padding: 5px;
+}
+
+ a:hover{
+
+    background-color: blue;
+}
